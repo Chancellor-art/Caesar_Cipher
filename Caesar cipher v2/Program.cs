@@ -69,7 +69,6 @@ namespace Caesar_cipher_v2
                 }
                 k = 0;
             }
-
             Console.WriteLine($"\nДекодування завершене: {text}");
             Console.ReadKey();
         }
